@@ -1,7 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=edayildizz&theme=tokyonight&hide_border=do%C4%9Fru&border_radius=3&short_numbers=YANLI%C5%9E&mode=weekly)](https://git.io/streak-stats)
 <!-- Profil Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Hi%20I'm%20Edanur%20Yıldız%20👩‍💻&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=180&section=header&text=Hi%20I'm%20Edanur%20Yıldız%20👩‍💻&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 ---
@@ -40,12 +39,15 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edanuryildizz&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edanuryildizz&theme=radical&hide_border=true" height="160" />
+  <!-- Contributions -->
+  <img src="https://github-readme-stats.vercel.app/api?username=edanuryildizz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=edanuryildizz&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanuryildizz&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanuryildizz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </p>
 
 ---
@@ -61,6 +63,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a00e0&height=120&section=footer"/>
 </p>
-
