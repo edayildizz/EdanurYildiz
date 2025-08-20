@@ -1,7 +1,5 @@
-<!-- Profil Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=180&section=header&text=Hi%20I'm%20Edanur%20Yıldız%20👩‍💻&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-</p>
+<!-- Profil Banner (Full Width) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=180&section=header&text=Hi%20I'm%20Edanur%20Yıldız%20👩‍💻&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ---
 
@@ -40,9 +38,8 @@
 ### 📊 GitHub Analytics  
 <p align="center">
 
-<!-- ✅ Senin koyduğun streak kart (asla değiştirmedim) -->
+<!-- ✅ Senin streak kartın (hiç değiştirmedim) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=edayildizz&theme=tokyonight&hide_border=YANLI%C5%9E&short_numbers=YANLI%C5%9E&mode=weekly&card_width=900)](https://git.io/streak-stats)
-
 
 </p>
 
@@ -57,7 +54,5 @@
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a00e0&height=120&section=footer"/>
-</p>
+<!-- Footer Banner (Full Width) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4a00e0&height=120&section=footer"/>
