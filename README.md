@@ -41,7 +41,7 @@
 <p align="center">
 
 <!-- ✅ Senin koyduğun streak kart (asla değiştirmedim) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=edayildizz&theme=tokyonight&hide_border=do%C4%9Fru&border_radius=3&short_numbers=YANLI%C5%9E&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=edayildizz&theme=tokyonight&hide_border=YANLI%C5%9E&short_numbers=YANLI%C5%9E&card_width=900)](https://git.io/streak-stats)
 
 <!-- Contributions kartı (uyumlu: tokyonight, border_radius=3) -->
 <img src="https://github-readme-stats.vercel.app/api?username=edanuryildizz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=3" height="160" />
